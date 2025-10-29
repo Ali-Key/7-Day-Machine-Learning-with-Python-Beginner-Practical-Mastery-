@@ -1,6 +1,6 @@
 # **7-Day Machine Learning with Python (Beginner → Practical Mastery)**
 
-**Tools:** Python, NumPy, pandas, Matplotlib, Seaborn, scikit-learn
+**Tools:**  Python, NumPy, pandas, Matplotlib, Seaborn, scikit-learn
 
 **Workspace:** Google Colab (free cloud coding)
 
