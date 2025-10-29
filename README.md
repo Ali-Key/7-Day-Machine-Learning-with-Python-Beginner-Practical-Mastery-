@@ -295,4 +295,4 @@ print("Prediction for 6 hours study:", model.predict([[6]]))
 
 ✅ Run everything easily in Google Colab
 
----
+
