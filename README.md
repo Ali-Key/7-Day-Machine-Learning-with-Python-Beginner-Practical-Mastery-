@@ -1,7 +1,5 @@
 # **7-Day Machine Learning with Python (Beginner → Practical Mastery)**
 
-<<<<<<< HEAD
-=======
 **Tools:** Python, NumPy, pandas, Matplotlib, Seaborn, scikit-learn
 
 **Workspace:** Google Colab (free cloud coding)
@@ -596,16 +594,7 @@ print("Prediction for 6 hours study:", model.predict([[6]]))
 
 ✅ Run everything easily in Google Colab
 
-<<<<<<< HEAD
----
-=======
->>>>>>> origin/main
 
 **Author:** Ali Omar Abdi (AliKey)
 📍 Mogadishu, Somalia
 🎓 Bachelor’s in Computer Application — JUST University
-<<<<<<< HEAD
-=======
-
-
->>>>>>> origin/main
