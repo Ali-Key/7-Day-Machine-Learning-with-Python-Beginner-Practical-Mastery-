@@ -201,7 +201,4 @@ print("Sum of 10 and 5 is:", result)
 # -------------------------------
 print("\n✅ End of Day 1: Python Basics Complete!")
 print("You learned variables, data types, operators, lists, tuples, dictionary, conditionals, loops & functions.")
-<<<<<<< HEAD
-=======
 print("Now it's time to start coding! Good luck!")
->>>>>>> origin/main

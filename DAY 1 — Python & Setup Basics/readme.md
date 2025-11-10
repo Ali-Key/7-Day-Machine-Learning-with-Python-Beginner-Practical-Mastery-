@@ -142,8 +142,3 @@ Completed Simple Calculator
 
 Ready for Day 2: NumPy for Numerical Computation
 ```
-<<<<<<< HEAD
-
-In this updated version, the code is formatted using Markdown syntax, which is commonly used for readme files. The code is displayed using triple backticks and the appropriate language syntax (`python` in this case). The table is displayed using a pipe-separated format, which is also commonly used in Markdown tables.
-=======
->>>>>>> origin/main
