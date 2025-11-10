@@ -1,9 +1,5 @@
 # **7-Day Machine Learning with Python (Beginner → Practical Mastery)**
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 88e983f ( Day 3  pandas for Data Handling)
 **Tools:** Python, NumPy, pandas, Matplotlib, Seaborn, scikit-learn
 
 **Workspace:** Google Colab (free cloud coding)
@@ -602,7 +598,3 @@ print("Prediction for 6 hours study:", model.predict([[6]]))
 **Author:** Ali Omar Abdi (AliKey)
 📍 Mogadishu, Somalia
 🎓 Bachelor’s in Computer Application — JUST University
-<<<<<<< HEAD
-=======
-
->>>>>>> 88e983f ( Day 3  pandas for Data Handling)
